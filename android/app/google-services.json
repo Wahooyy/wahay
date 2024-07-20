@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "387143344740",
+    "project_id": "wahay-5hnqk3",
+    "storage_bucket": "wahay-5hnqk3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387143344740:android:e211b288106bf41aa1b571",
+        "android_client_info": {
+          "package_name": "com.mycompany.wahay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClwjEES1dT7y5KNKjBsQKXTk3tR41Qw5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
